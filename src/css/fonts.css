@@ -1,0 +1,167 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Thin.eot');
+    src: url('../fonts/Roboto-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Thin.woff') format('woff'),
+    url('../fonts/Roboto-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Light.eot');
+    src: url('../fonts/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Light.woff') format('woff'),
+    url('../fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.eot');
+    src: url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Regular.woff') format('woff'),
+    url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Bold.eot');
+    src: url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Bold.woff') format('woff'),
+    url('../fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Black.eot');
+    src: url('../fonts/Roboto-Black.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Black.woff') format('woff'),
+    url('../fonts/Roboto-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/facebook/icomoon.eot?gd8x1w');
+	src:  url('../fonts/facebook/icomoon.eot?gd8x1w#iefix') format('embedded-opentype'),
+	  url('../fonts/facebook/icomoon.ttf?gd8x1w') format('truetype'),
+	  url('../fonts/facebook/icomoon.woff?gd8x1w') format('woff'),
+	  url('../fonts/facebook') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-facebook:before {
+	content: "\ea90";
+  }
+
+  @font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/twetter/icomoon.eot?ve3iy2');
+	src:  url('../fonts/twetter/icomoon.eot?ve3iy2#iefix') format('embedded-opentype'),
+	  url('../fonts/twetter/icomoon.ttf?ve3iy2') format('truetype'),
+	  url('../fonts/twetter/icomoon.woff?ve3iy2') format('woff'),
+	  url('../fonts/twetter/icomoon.svg?ve3iy2#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-twitter:before {
+	content: "\ea96";
+  }
+
+  @font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/linkedin/icomoon.eot?lprjly');
+	src:  url('../fonts/linkedin/icomoon.eot?lprjly#iefix') format('embedded-opentype'),
+	  url('../fonts/linkedin/icomoon.ttf?lprjly') format('truetype'),
+	  url('../fonts/linkedin/icomoon.woff?lprjly') format('woff'),
+	  url('../fonts/linkedin/icomoon.svg?lprjly#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-linkedin:before {
+	content: "\eac9";
+  }
+
+  @font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/instagram/icomoon.eot?sh3pln');
+	src:  url('../fonts/instagram/icomoon.eot?sh3pln#iefix') format('embedded-opentype'),
+	  url('../fonts/instagram/icomoon.ttf?sh3pln') format('truetype'),
+	  url('../fonts/instagram/icomoon.woff?sh3pln') format('woff'),
+	  url('../fonts/instagram/icomoon.svg?sh3pln#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-instagram:before {
+	content: "\ea92";
+  }
